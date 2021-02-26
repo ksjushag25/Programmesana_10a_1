@@ -5,7 +5,7 @@
 #3 Fiïimonovs Eldars
 
 #4 Gaiðute Ksenija
-print (6/2)
+print (6/2+2)
 #5 Gorniks Arturs
 
 #6 Guþonoka Jevgeòija
